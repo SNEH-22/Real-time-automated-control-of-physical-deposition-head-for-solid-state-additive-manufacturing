@@ -87,9 +87,5 @@ To design an **efficient, reliable, and precise clamping & feeding fixture** for
 
 ## 📫 Contact  
 - **LinkedIn:** [Sanyam Sneh](https://www.linkedin.com/in/sanyamsneh)  
-- **Email:** sanyamsneh@email.com
----
-
-##  Contact  
-- **LinkedIn:** [Sanyam Sneh](https://www.linkedin.com/in/sanyamsneh)  
-- **Email:** sanyamsneh@email.com
+- **Email:** heysanyamsneh@gmail.com
+  
