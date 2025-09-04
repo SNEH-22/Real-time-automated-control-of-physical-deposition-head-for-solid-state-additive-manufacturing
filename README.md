@@ -1,18 +1,18 @@
 # 🔬 Research & Technical Portfolio – Sanyam Sneh  
 
 ## 👋 About Me  
-I am **Sanyam Sneh**, a third-year undergraduate in **Mechanical Engineering at PDPM IIITDM Jabalpur** with a **CPI of 8.4**.  
+I am **Sanyam Sneh**, a final-year undergraduate in **Mechanical Engineering at PDPM IIITDM Jabalpur** with a **CPI of 8.4**.  
 My research interests lie in **Additive Manufacturing, Friction Stir Processing, and Advanced Manufacturing Systems**.  
 
-I was **selected for SURGE 2025 (IIT Kanpur, Manufacturing Science)** – though I could not enroll, it recognized my research foundation.  
+I was **selected for SURGE 2025 (IIT Kanpur, Additive Manufacturing )** – though I could not enroll, it recognized my research foundation.  
 Currently, my work is centered on a **novel fixture design for Additive Friction Stir Processing (AFSP)**, filed as a **design patent application under Dr. Manu Srivastava at HAM Lab, IIITDMJ**.  
 
 ---
 
 ## 🏆 Highlights  
-- **Design Patent Application Filed (Pending):** Novel AFSP fixture design.  
+- **Design Patent Application Filled (Pending):** Novel AFSP fixture design.  
 - **Academic Excellence:** A+ in *Manufacturing Technology* and *Manufacturing Process*.  
-- **Research Recognition:** Selected for *SURGE 2025 (Manufacturing Science)*, IIT Kanpur (not enrolled).  
+- **Research Recognition:** Selected for *SURGE 2025 (Additive Manufacturing)*, IIT Kanpur (not enrolled).  
 - **Hands-on Skills:** SolidWorks, ANSYS Workbench, CAD/CAM, Simulation & Modeling.  
 - **Technical Writing & Research Reviews:** Summarized and analyzed multiple research papers to extract meaningful insights, strengthen reviews, and guide innovative design.  
 - **Innovation Focus:** Specialized in defect analysis, post-processing enhancement, and advanced AM methods.  
